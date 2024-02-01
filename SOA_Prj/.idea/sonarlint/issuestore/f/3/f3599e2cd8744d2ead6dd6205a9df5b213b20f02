@@ -1,0 +1,7 @@
+
+J
+java:S1611-"4Remove the parentheses around the "client" parameter(Αϋθµ
+[
+java:S1155E">Use isEmpty() to check whether the collection is empty or not.(Λ“ϋμ8ΡΉΨ£Φ1
+c
+java:S1128	"ARemove this unused import 'org.springframework.cache.annotation'.(ριβύÿÿÿÿ8‘ρ¤Φ1
