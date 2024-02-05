@@ -21,4 +21,4 @@ redis:
   host: localhost
   port: 6379
   username: auth
-  password: sJE8S4Nq42TYFC3JC4MdFuwz9FTL9LyQkNN4Hd4nQycnM5GeXj4eqaqpsTYrw8RF
+  password: ########
